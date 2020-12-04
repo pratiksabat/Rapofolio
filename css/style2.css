@@ -19,7 +19,7 @@ margin-left: 500px;
 body{
   width: 1280px;
   height: 720px;
-  background: url('images/back_sign.jpg');
+  background: url(back_sign.jpg);
  opacity: 0.8;
  /* background-position: center; */
   background-repeat: no-repeat;

@@ -5,7 +5,7 @@
 
 }
 body{
-  background-image: url('images/torontosky.jpg');
+  background-image: url(torontosky.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -43,7 +43,7 @@ ul li a{
 .D
 {
   width: 1520px;
-
+  
   background-color: #1D2731;
   opacity: 0.8;
   /* border: 2px solid white; */
